@@ -7,6 +7,9 @@ export default function Footer() {
             <h2>The Brutal martian Landscape</h2>
             <h1>APOD PROJECT</h1>
         </div>
+        <button>
+            <i className="fa-solid fa-circle-info"></i>
+        </button>
     </footer>
   )
 }
